@@ -1,0 +1,23 @@
+                      3:1
+                     / \
+                    o---o
+                   /  9  \
+          3:1-o---o  wdd  o---o-2:1 wht
+            |/ 12  \  c  / 10  \|
+        o---o  shp  o---o  shp  o---o
+       / 11  \  b  /  6  \  d  /  8  \
+      o  wdd  o---o  wht  o---o  brk  o
+       \  a  /  3  \  n  /     \  e  /
+2:1 ore-o---o  brk  o---o  wdd  o---o-2:1 brk
+      |/  4  \  m  / 11  \  o  /  3  \|
+      o  ore  o---o  wht  o---o  ore  o
+       \  l  /     \  s  /     \  f  /
+        o---o       o---o  brk  o---o
+       /  8  \     /  9  \  p  /  6  \
+      o  wht  o---o  ore  o---o  wht  o
+      |\  k  / 10  \  q  /  2  \  g  /|
+    3:1-o---o  wdd  o---o  shp  o---o-2:1 wht
+             \  j  /  5  \  h  /
+              o---o  shp  o---o
+               \ / \  i  / \ /
+           2:1 shp  o---o   3:1
